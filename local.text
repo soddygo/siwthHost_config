@@ -1,0 +1,10 @@
+# My hosts
+127.0.0.1 localhost
+#::1 localhost ip6-localhost ip6-loopback
+255.255.255.255	broadcasthost
+::1             localhost
+#fe80::1%lo0     localhost
+10.211.55.4    	windows-10.shared windows-10 #prl_hostonly shared
+127.0.0.1 hub5btmain.sandai.net
+127.0.0.1 hub5emu.sandai.net
+127.0.0.1 upgrade.xl9.xunlei.com

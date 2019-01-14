@@ -1,0 +1,72 @@
+# dev测试环境
+
+#base public
+192.168.8.243   devapi.dmg.dmall.com
+192.168.8.199   devdsp.dmall.com devddc.dmall.com
+101.204.240.130 devzk.dmall.com
+192.168.8.189   devzk1.dmall.com
+10.12.194.210   devzk2.dmall.com
+192.168.8.243   devzk3.dmall.com
+192.168.8.189   devzk4.dmall.com
+10.12.194.210   devzk5.dmall.com
+192.168.201.4   tpassway.wumart.com
+101.204.247.72  dev.bc.wumart.com
+192.168.8.243   devlog.dmall.com
+192.168.8.228   server.admiral.dmall.com
+
+192.168.8.203	devss.ddc.dmall.com
+
+#dmall
+127.0.0.1 local.dmall.com
+127.0.0.1 localhost.dmall.com
+127.0.0.1 testlocal.dmall.com
+
+#手动下发测试mq数据地址
+10.248.8.13 testapiecm-partner.dmall.com
+192.168.8.243 devapiecm-partner.dmall.com
+
+#其他
+
+#dev erp
+192.168.8.243 deverp.dmall.com
+
+#rocketma IP
+192.168.8.229 devapi.dmg.dmall.com
+192.168.8.229 devdafka.dmall.com
+
+#dev来客
+192.168.8.243 devpartner.dmall.com
+192.168.8.243 devstatic.dmall.com
+192.168.8.243 devpassport-partner.dmall.com
+192.168.8.243 devprivilege-partner.dmall.com
+192.168.8.243 devgmt-partner.dmall.com
+192.168.8.243 devtrade.dmall.com
+192.168.8.243 devman.oop.dmall.com
+192.168.8.243 devman.partner.dmall.com
+#dev cabin
+192.168.8.243 devcabin.dmall.com
+#dev 商家系统模块
+192.168.8.243 devware.dmall.com
+192.168.8.243 devman.push.dmall.com
+
+#数据库
+192.168.8.207  db.mysql.dev.dmall.com
+192.168.8.207  db.redis.dev.dmall.com
+192.168.8.207  db.mongo.dev.dmall.com
+192.168.8.207  db.pg.dev.dmall.com
+#dev Jenkins
+192.168.8.243 devjenkins.dmall.com
+
+
+#dev项目测试
+192.168.8.243 devmanpurchase-partner.dmall.com
+192.168.8.243 devinvadjust-partner.dmall.com
+192.168.8.243 devmanpick-partner.dmall.com
+192.168.8.243 devinvoice-partner.dmall.com
+192.168.8.243 devman.scm.dmall.com
+192.168.8.243 devmanmobile-partner.dmall.com
+192.168.8.243 devmanopen-partner.dmall.com
+192.168.8.243 devopen.dmall.com
+192.168.8.243 devpassport-3pl.dmall.com
+
+

@@ -1,0 +1,29 @@
+# test测试环境
+
+#dmall
+127.0.0.1 local.dmall.com
+127.0.0.1 localhost.dmall.com
+127.0.0.1 testlocal.dmall.com
+
+#手动下发测试mq数据地址
+10.248.8.13 testapiecm-partner.dmall.com
+
+#其他
+10.248.8.13 testmanmobile-partner.dmall.com
+
+#IDC测试
+10.248.8.13 testmanpurchase-partner.dmall.com
+#10.248.8.13 testmanpurchase-partner.dmall.com
+10.248.8.13 testpartner.dmall.com
+
+#test dmc
+10.12.7.26  testds.dmc.dmall.com
+
+#项目
+10.248.8.13 testman.scm.dmall.com
+10.248.8.13 testmanopen-partner.dmall.com
+10.248.8.13 testopen-partner.dmall.com
+10.248.8.13 testopen.dmall.com
+10.248.8.13 test3pl.dmall.com
+10.248.8.13 testmanprivilege-3pl.dmall.com
+10.248.8.13 testmanpassport-3pl.dmall.com
