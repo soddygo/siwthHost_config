@@ -1,3 +1,4 @@
+# local_test
 # test测试环境
 
 #dmall
@@ -27,3 +28,12 @@
 10.248.8.13 test3pl.dmall.com
 10.248.8.13 testmanprivilege-3pl.dmall.com
 10.248.8.13 testmanpassport-3pl.dmall.com
+
+10.248.8.13 testfile-open.dmall.com
+
+10.248.8.13 testman.brt.dmall.com
+
+#禅道
+10.248.8.13 zbox.dmall.com
+#cabin升级过渡用的地址
+10.248.8.13 testpartner-up.dmall.com
