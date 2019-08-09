@@ -1,45 +1,27 @@
-#git
-192.168.90.107 nexus.dmall.com
-192.168.90.100 gitlab.dmall.com
-
-192.168.8.205 es.dev.dmall.com
-10.13.3.25 dev.dmg.wumart.com
-10.248.224.7 devapicenter.dmall.com
-10.248.224.7 deverp.dmall.com
-#ddc
-10.248.224.39 devss.ddc.dmall.com
-10.248.224.18 devddc.dmall.com
-
-#db
-#192.168.8.207 db.mysql.dev.dmall.com
-10.248.224.3 db.mysql.dev.dmall.com
-
-#192.168.8.207 db.redis.dev.dmall.com
-10.248.224.3 db.redis.dev.dmall.com
-192.168.8.207 db.mongo.dev.dmall.com
-192.168.8.207 db.pg.dev.dmall.com
-
-# 192.168.8.189   devzk1.dmall.com
-# 10.12.194.210   devzk2.dmall.com
-# 192.168.8.243   devzk3.dmall.com
-#dmg
-10.248.224.7 devzk.dmall.com
-# 192.168.8.189   devzk1.dmall.com
-10.248.224.18 devzk1.dmall.com
-10.248.224.25 devzk2.dmall.com
-10.248.224.39 devzk3.dmall.com
-# 192.168.8.189 devzk4.dmall.com
-# 10.12.194.210 devzk5.dmall.com
-
-10.13.3.10 dev.service.wumart.com
-10.248.224.7  devgogh.dmall.com
+#base public
+# 10.248.224.7   devapi.dmg.dmall.com
 
 10.248.224.18 devdafka.dmall.com
 10.248.224.18 devapi.dmg.dmall.com
-
 10.248.224.18 devdsp.dmall.com
 
-10.248.224.18 devamp.dmall.com
-10.248.224.18 devomp.amp.dmall.com
-10.248.224.18 devdba.amp.dmall.com
-10.248.224.18 devbsm.amp.dmall.com
+# 101.204.240.130 devzk.dmall.com
+# 192.168.8.189   devzk1.dmall.com
+# 10.12.194.210   devzk2.dmall.com
+# 10.248.224.7   devzk3.dmall.com
+# 192.168.8.189   devzk4.dmall.com
+# 10.12.194.210   devzk5.dmall.com
+192.168.201.4   tpassway.wumart.com
+101.204.247.72  dev.bc.wumart.com
+10.248.224.7   devlog.dmall.com
+192.168.8.228   server.admiral.dmall.com
+10.248.224.3   db.mysql.dev.dmall.com
+10.248.224.3   db.redis.dev.dmall.com
+10.248.224.18 devddc.dmall.com
+10.248.224.39 devss.ddc.dmall.com
+
+10.248.224.18 devzk1.dmall.com
+10.248.224.25 devzk2.dmall.com
+10.248.224.39 devzk3.dmall.com
+10.248.224.18 devzk4.dmall.com
+10.248.224.25 devzk5.dmall.com
