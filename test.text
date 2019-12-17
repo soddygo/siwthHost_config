@@ -39,3 +39,107 @@
 10.248.8.13 testpartner-up.dmall.com
 
 10.248.8.13  testamp.dmall.com
+
+
+# local_test
+# test测试环境
+
+#dmall
+127.0.0.1 local.dmall.com
+127.0.0.1 localhost.dmall.com
+127.0.0.1 testlocal.dmall.com
+#test测试环境,DF国际化的host配置
+10.40.2.7 teststatic.dmall.com.hk
+
+#10.248.8.14 db.mysql.test.dmall.com
+10.16.244.5 db.mysql.test.dmall.com
+
+10.248.8.13 testphpmyadmin.dmall.com
+
+#手动下发测试mq数据地址
+10.248.8.13 testapiecm-partner.dmall.com
+
+#其他
+10.248.8.13 testmanmobile-partner.dmall.com
+
+#IDC测试
+10.248.8.13 testmanpurchase-partner.dmall.com
+#10.248.8.13 testmanpurchase-partner.dmall.com
+10.248.8.13 testpartner.dmall.com
+
+#test dmc
+10.12.7.26  testds.dmc.dmall.com
+
+#项目
+10.248.8.13 testman.scm.dmall.com
+10.248.8.13 testmanopen-partner.dmall.com
+10.248.8.13 testopen-partner.dmall.com
+10.248.8.13 testopen.dmall.com
+10.248.8.13 test3pl.dmall.com
+10.248.8.13 testmanprivilege-3pl.dmall.com
+10.248.8.13 testmanpassport-3pl.dmall.com
+
+10.248.8.13 testfile-open.dmall.com
+
+10.248.8.13 testman.brt.dmall.com
+
+#禅道
+10.248.8.13 zbox.dmall.com
+#cabin升级过渡用的地址
+10.248.8.13 testpartner-up.dmall.com
+10.248.8.13  testamp.dmall.com
+
+10.248.8.13 testmanesc.dmall.com
+10.248.8.13 testesc.dmall.com
+10.248.8.13 testmansso.dmall.com
+10.248.8.13 testsso.dmall.com
+10.248.8.13 testmanrdpwms-partner.dmall.com
+10.248.8.13 testapirdpwms-partner.dmall.com
+10.248.8.13 testmanrdpvoucher-partner.dmall.com
+10.248.8.13 testrdpvoucher.dmall.com
+
+10.248.8.13 testmanrdpmiddle-partner.dmall.com
+
+#本地访问测试环境
+# 1、绑定本机host   10.248.8.13 test.phpmyadmin.dmall.com
+# 2、访问 http://test.phpmyadmin.dmall.com
+# 3、填写测试库IP+端口(空格分隔)，和之前的用户名密码
+10.248.8.13 test.phpmyadmin.dmall.com
+
+10.248.8.13 testmonitor.fulfillment.dmall.com
+10.248.8.13 testmanrdpsms-partner.dmall.com
+
+10.248.8.13 testmanrdpallocation-partner.dmall.com
+
+10.248.8.13 testman.aux.produce.dmall.com
+10.248.8.13 testinvadjust-partner.dmall.com
+
+
+10.248.8.13 testmancallprotect-partner.dmall.com
+#DF国际化
+#10.40.2.7 open.dmall.com.hk
+#DF国际化
+10.40.2.7 testfile-open.dmall.com.hk
+10.40.2.7 testopen.dmall.com.hk
+10.40.2.7 testmanopen-partner.dmall.com.hk
+10.40.2.7 testpartner.dmall.com.hk
+10.40.2.7 teststatic.dmall.com.hk
+
+10.40.2.7 testpassport-partner.dmall.com.hk
+10.40.2.7 testman-partner.dmall.com.hk
+10.40.2.7 testprivilege-partner.dmall.com.hk
+10.40.2.7 testmansso.dmall.com.hk
+10.40.2.7 testapisso.dmall.com.hk
+10.40.2.7 testmanesc.dmall.com.hk
+10.40.2.7 testapiesc.dmall.com.hk
+10.40.2.7 testapi-erp.dmall.com.hk
+10.40.2.7 testgwerp-partner.dmall.com.hk
+10.40.2.7 testrest-erp.dmall.com.hk
+10.40.2.7 testerp.dmall.com.hk
+10.40.2.7 testesc.dmall.com.hk
+10.40.2.7 testsso.dmall.com.hk
+10.40.2.7 testpartner.dmall.com.hk
+
+#TEST DF jenkins
+10.40.2.7 testdeploy.inner-dmall.com.hk
+

@@ -1,0 +1,548 @@
+# 坤哥的dev配置
+# dev
+127.0.0.1 zlk-PC
+0.0.0.0 account.jetbrains.com
+192.168.90.126 man.es.head.dmall.com
+
+10.248.224.7 devman.order.dmall.com
+
+10.248.224.7 devapi.aftersale.dmall.com
+
+10.248.224.7 devman.ofc.dmall.com
+
+10.248.224.7 devapi.ofc.dmall.com
+
+10.248.224.7 devmq.ofc.dmall.com
+
+10.248.224.7 devman.presort.dmall.com
+
+10.248.224.7 devtask.ofc.dmall.com
+
+10.248.224.7 devapi.presort.dmall.com
+
+10.248.224.25 devamp.ddc.dmall.com
+
+10.248.224.7 devesc.dmall.com
+
+
+
+10.248.224.7 devman.aftersale.dmall.com
+
+10.248.224.7 devman.aftersale.dmall.com
+
+10.248.224.7 devreturncoupon.dmall.com
+
+10.248.224.7 devman.returncoupon.dmall.com
+
+10.248.224.7 devapi.refund.dmall.com
+
+10.248.224.7 devman.refund.dmall.com
+
+10.248.224.7 devpos.wms.dmall.com
+
+10.248.224.7 devpush.dmall.com
+
+10.248.224.7 devapi.aftersale.dmall.com
+
+10.248.224.7 devman.pack.wms.dmall.com
+
+10.248.224.7 devman.picking.wms.dmall.com
+
+10.248.224.7 devvtlpos.wms.dmall.com
+
+10.248.224.7 devman.ordertracking.dmall.com
+
+10.248.224.7 devapi.print.wms.dmall.com
+
+10.248.224.7 devapi.promise.dmall.com
+
+10.248.224.7 devman.produce.ext.dmall.com
+
+10.248.224.7 devodin.delivery.ddms.dmall.com
+
+10.248.224.7 devapi.dc.dmall.com
+
+10.248.224.7 devlg.dmall.com
+
+10.248.224.7 devman.trade.dmall.com
+
+10.248.224.7 devman.share.dmall.com
+
+10.248.224.7 devcms.wx.dmall.com
+
+10.248.224.7 devapi.vpos.wms.dmall.com
+
+10.248.224.7 devman.vpos.wms.dmall.com
+
+10.248.224.7 devapi.dms.dmall.com
+
+10.248.224.7 devcart.dmall.com
+
+10.248.224.7 devapi.ordertracking.dmall.com
+
+10.248.224.7 devmq.ordertracking.dmall.com
+
+10.248.224.7 devgw.picking.wms.dmall.com
+
+10.248.224.7 devpresale.dmall.com
+
+10.248.224.7 devman.presale.dmall.com
+
+10.248.224.7 devwarestock.dmall.com
+
+10.248.224.7 devwaredump.dmall.com
+
+10.248.224.7 devworker.presale.dmall.com
+
+10.248.224.7 devapi.oop.dmall.com
+
+10.248.224.7 devman.oop.dmall.com
+
+10.248.224.7 devman.couponcode.dmall.com
+
+10.248.224.7 devcouponcodeapi.dmall.com
+
+10.248.224.7 devware.dmall.com
+
+10.248.224.7 devindex.river.ddms.dmall.com
+
+10.248.224.7 devmarketapp.dmall.com
+
+10.248.224.7 devman.paf.dmall.com
+
+10.248.224.7 devindex.river.dwms.dmall.com
+
+10.248.224.7 devindex.creator.dwms.dmall.com
+
+10.248.224.7 devapi.cms.wx.dmall.com
+
+10.248.224.7 devtrade.dmall.com
+
+10.248.224.7 devorderapi.dmall.com
+
+10.248.224.7 devman.coupon.dmall.com
+
+10.248.224.7 devcoupon.dmall.com
+
+10.248.224.7 devorder.pos.dmall.com
+
+10.248.224.7 devman.apicenter.dmall.com
+
+10.248.224.7 devwareapi.dmall.com
+
+10.248.224.7 devapicenter.dmall.com
+
+10.248.224.7 devblacklist-api.dmall.com
+
+10.248.224.7 devblacklist.dmall.com
+
+10.248.224.7 devwaremq.dmall.com
+
+10.248.224.7 devwaregate.dmall.com
+
+10.248.224.7 devman.passport.dmall.com
+
+10.248.224.7 devpassport.dmall.com
+
+10.248.224.7 devapi.erp.dmall.com
+
+10.248.224.7 deverp.dmall.com
+
+10.248.224.7 devid.dmall.com
+
+10.248.224.7 devjob.erp.dmall.com
+
+10.248.224.7 devman.id.dmall.com
+
+10.248.224.7 devmonitor.rcs.dmall.com
+
+10.248.224.7 devapi.engine.rcs.dmall.com
+
+10.248.224.7 devapi.rcs.dmall.com
+
+10.248.224.7 devapi.engine.rcs.dmall.com
+
+10.248.224.7 devadmin.csc.dmall.com
+
+10.248.224.7 devman.token.dmall.com
+
+10.248.224.7 devman.ods.dmall.com
+
+10.248.224.7 devtoken.dmall.com
+
+10.248.224.7 devgw.dc.dmall.com
+
+10.248.224.7 devmonitor.dc.dmall.com
+
+10.248.224.7 devshare.dmall.com
+
+10.248.224.7 devman.tuan.dmall.com
+
+
+
+
+
+
+
+#192.168.8.207 db.mongo.dev.dmall.com
+
+#192.168.8.207 db.pg.dev.dmall.com
+
+
+
+10.248.224.7 devcart.dmall.com
+
+10.248.224.7 devapi.ledger.dmall.com
+
+10.248.224.7 devworker.ledger.dmall.com
+
+10.248.224.7 devman.ledger.dmall.com
+
+10.248.224.7 devvendorapi.dmall.com
+
+10.248.224.7 devexcode.dmall.com
+
+10.248.224.7 devvendor.dmall.com
+
+10.248.224.7 devadmin.ratecenter.dmall.com
+
+10.248.224.7 devman.engine.rcs.dmall.com
+
+10.248.224.7 devadmin.member.dmall.com
+
+10.248.224.7 devexcodeapi.dmall.com
+
+10.248.224.7 devworkbench.rcs.dmall.com
+
+10.248.224.7 devman.push.dmall.com
+
+10.248.224.7 devreport.dmall.com
+
+10.248.224.7 devlog.erp.dmall.com
+
+10.248.224.7 devapi.proengine.dmall.com
+
+10.248.224.7 devman.terns.dmall.com
+
+10.248.224.7 devapi.terns.dmall.com
+
+10.248.224.7 devapi.lack.wms.dmall.com
+
+10.248.224.7 devmail.presale.dmall.com
+
+10.248.224.7 devman.dmall.com
+
+10.248.224.7 devapi.fastdelivery.dms.dmall.com
+
+10.248.224.7 devman.fastdelivery.dms.dmall.com
+
+10.248.224.7 devapi.delivery.dms.dmall.com
+
+10.248.224.7 devesindex.dms.dmall.com
+
+10.248.224.7 devworkorder.man.dmall.com
+
+10.248.224.7 devman.lack.wms.dmall.com
+
+10.248.224.7 devman.vrp.dms.dmall.com
+
+10.248.224.7 devman.cart.dmall.com
+
+10.248.224.7 devagent.wx.dmall.com
+
+10.248.224.7 devman.order.dmall.com
+
+10.248.224.7 devweb.proengine.dmall.com
+
+10.248.224.7 devman.api.wx.dmall.com
+
+10.248.224.7 devapi.ewm.supply.dmall.com
+
+10.248.224.7 devman.emp.dmall.com
+
+10.248.224.7 devman.ewm.supply.dmall.com
+
+10.248.224.7 devman.merchantpicking.wms.dmall.com
+
+10.248.224.7 devgw.merchantpicking.wms.dmall.com
+
+10.248.224.7 devoversea.dmall.com
+
+
+
+10.248.224.7 devwxapi.dmall.com
+
+10.248.224.7 devman.t.dmall.com
+
+10.248.224.7 devexman.tpl.dms.dmall.com
+
+10.248.224.7 devt.dmall.com
+
+10.248.224.7 devreport.dmall.com
+
+10.248.224.7 devdpeapi.dmall.com
+
+10.248.224.7 devman.datatransform.dmall.com
+
+10.248.224.7 devgate.dataengine.dmall.com
+
+10.248.224.7 devda.dmall.com
+
+10.248.224.7 devman.a.dmall.com
+
+10.248.224.7 deva.dmall.com
+
+10.248.224.7 devdpeman.dmall.com
+
+10.248.224.7 devcornermark.dmall.com
+
+10.248.224.7 devapi.interception.dmall.com
+
+10.248.224.7 devman.interception.dmall.com
+
+10.248.224.7 devgw.pandora.dmall.com
+
+10.248.224.7 devadmin.pandora.dmall.com
+
+10.248.224.7 devgw.tuan.dmall.com
+
+10.248.224.7 devapi.push.dmall.com
+
+10.248.224.7 devgw.wx.dmall.com
+
+10.248.224.7 devosiweb.dmall.com
+
+10.248.224.7 devosiapi.dmall.com
+
+
+
+10.248.224.7 devsms.index.crator.dmall.com
+
+10.248.224.7 devapi.produce.ext.dmall.com
+
+10.248.224.7 devapi.pickup.pack.dwms.dmall.com
+
+10.248.224.7 devapi.oss.dmall.com
+
+10.248.224.7 devman.oss.dmall.com
+
+10.248.224.7 devapi.oas.dmall.com
+
+10.248.224.7 devman.oas.dmall.com
+
+10.248.224.7 devmq.oas.dmall.com
+
+10.248.224.7 devgw.trade.dmall.com
+
+10.248.224.7 devapi.dataengine.dmall.com
+
+10.248.224.7 devman.dc.dmall.com
+
+10.248.224.7 devfeeder.seckilling.dmall.com
+
+10.248.224.7 devseckilling.dmall.com
+
+10.248.224.7 devman.seckilling.dmall.com
+
+10.248.224.7 devman.produce.sms.dmall.com
+
+10.248.224.7 devman.marketapp.dmall.com
+
+10.248.224.7 devindex.creator.ddms.dmall.com
+
+10.248.224.7 devapi.paf.dmall.com
+
+10.248.224.7 devman.supplier.dmall.com
+
+10.248.224.7 devsupplier.dmall.com
+
+10.248.224.7 devgw.dwms.dmall.com
+
+10.248.224.7 devbrt.dmall.com
+
+10.248.224.7 devman.brt.dmall.com
+
+10.248.224.7 devwaredetail.gateway.dmall.com
+
+10.248.224.7 devman.athena.dmall.com
+
+10.248.224.7 invoice.man.dev.dmall.com
+
+10.248.224.7 devman.partner.dmall.com
+
+10.248.224.7 devman.print.wms.dmall.com
+
+10.248.224.7 devman.produce.wms.dmall.com
+
+10.248.224.7 devapi.produce.wms.dmall.com
+
+10.248.224.7 devman.print.dwms.dmall.com
+10.248.224.7 devman.zewm.dwms.dmall.com
+10.248.224.7 devman.pack.dwms.dmall.com
+10.248.224.7 devman.produce.dwms.dmall.com
+10.248.224.7 api.pdp.dwms.dmall.com
+
+
+
+10.248.224.7 devapi.fcr.dwms.dmall.com
+
+10.248.224.7 devman.fcr.dwms.dmall.com
+
+10.248.224.7 devapi.pdp.dwms.dmall.com
+
+10.248.224.7 devapi.ddp.ddms.dmall.com
+
+10.248.224.7 devman.pickup.dwms.dmall.com
+
+
+10.248.224.7 devman.evaluate.ddms.dmall.com
+
+10.248.224.7 devapp.publish.dmall.com
+
+192.168.8.229 admiral.dmall.com
+
+192.168.8.229 man.admiral.dmall.com
+
+192.168.8.228 server.admiral.dmall.com
+10.248.224.7 devman.yssc.dwms.dmall.com
+
+
+
+10.248.224.7 devman.delivery.ddms.dmall.com
+
+
+
+#127.0.0.1 devman.es.head.dmall.com
+
+192.168.8.232 devman.es.head.dmall.com
+
+192.168.90.134 worker.pre.dmall.com
+
+192.168.90.110 worker.dmall.com
+
+10.248.224.7 devman.scm.dmall.com
+
+#127.0.0.1 devman.scm.dmall.com
+
+101.200.157.34  www.bestdreamer.com
+
+
+
+#下单工具
+10.248.224.7 weekly.dmall.com
+10.248.224.7 devmanproduction-partner.dmall.com
+#dmc
+10.248.224.7 devdmc.dmall.com
+#es
+10.248.224.7 deves.dmall.com
+
+10.248.224.7 devman.promise.dmall.com
+10.248.224.7 devi.dmall.com
+
+
+#配送man
+10.248.224.7 devman.delivery.dms.dmall.com
+#127.0.0.1 devman.delivery.dms.dmall.com
+# 10.248.224.7 devgw.dms.dmall.com
+#10.12.205.171 devgw.dms.dmall.com
+127.0.0.1 devgw.dms.dmall.com
+10.248.224.7 devapi.dms.dmall.com
+
+#tpl
+10.248.224.7 devman.tpl.dms.dmall.com
+10.248.224.7 devapi.tpl.dms.dmall.com
+10.248.224.7 devtpl-partner.dmall.com
+
+10.248.224.7 devcallbacktpl-partner.dmall.com
+10.248.224.7 devman.cwm.dmall.com
+
+10.248.224.7 devcounting-partner.dmall.com
+10.248.224.7 devmanmobile-partner.dmall.com
+10.248.224.7 devmanyssc-partner.dmall.com
+
+
+#来客
+10.248.224.7 devpartner.dmall.com
+10.248.224.7 devcabin.dmall.com
+10.248.224.7 devstatic.dmall.com
+10.248.224.7 devpassport-partner.dmall.com
+10.248.224.7 devprivilege-partner.dmall.com
+
+# 192.168.8.243 devcabin.dmall.com
+# 192.168.8.243 devstatic.dmall.com
+# 192.168.8.243 devprivilege-partner.dmall.com
+10.248.224.7 devgmt-partner.dmall.com
+10.248.224.7 devmanreceipt-partner.dmall.com
+127.0.0.1 devlocal.dmall.com
+127.0.0.1 local.dmall.com
+
+10.248.224.7 devapidelivery-partner.dmall.com
+10.248.224.7 devmanproduction-partner.dmall.com
+#10.248.224.7 devmandelivery-partner.dmall.com
+127.0.0.1 devmandelivery-partner.dmall.com
+10.248.224.7 devaftersale-partner.dmall.com
+10.248.224.7 devrefund-partner.dmall.com
+10.248.224.7 devmanurgency-partner.dmall.com
+10.248.224.7 devproductionurgencyman-partner.dmall.com
+
+#base public
+# 10.248.224.7   devapi.dmg.dmall.com
+
+10.248.224.18 devdafka.dmall.com
+10.248.224.18 devapi.dmg.dmall.com
+10.248.224.18 devdsp.dmall.com
+
+# 101.204.240.130 devzk.dmall.com
+# 192.168.8.189   devzk1.dmall.com
+# 10.12.194.210   devzk2.dmall.com
+# 10.248.224.7   devzk3.dmall.com
+# 192.168.8.189   devzk4.dmall.com
+# 10.12.194.210   devzk5.dmall.com
+192.168.201.4   tpassway.wumart.com
+101.204.247.72  dev.bc.wumart.com
+10.248.224.7   devlog.dmall.com
+192.168.8.228   server.admiral.dmall.com
+10.248.224.3   db.mysql.dev.dmall.com
+10.248.224.3   db.redis.dev.dmall.com
+10.248.224.18 devddc.dmall.com
+10.248.224.39 devss.ddc.dmall.com
+
+10.248.224.18 devzk1.dmall.com
+10.248.224.25 devzk2.dmall.com
+10.248.224.39 devzk3.dmall.com
+10.248.224.18 devzk4.dmall.com
+10.248.224.25 devzk5.dmall.com
+
+
+#wumart
+192.168.201.4 dev.rainbow.wumart.com
+
+#new shop
+# 10.248.224.7 devapiecm-partner.dmall.com
+# 10.248.224.7 devmanecm-partner.dmall.com
+# 10.13.227.243 manecm-partner.dmall.com
+10.248.4.59 gw.dms.dmall.com
+10.248.8.13 testproductionurgencyman-partner.dmall.com
+10.248.224.7 devman.assets.dmall.com
+10.248.224.7 devdrtinit.dmall.com
+10.248.224.7 devman.fulfillmentconfig.dmall.com
+10.248.224.7 devprivilege-partner.dmall.com
+10.248.224.7 devgmt-partner.dmall.com
+192.168.8.243 devstatic.dmall.com
+127.0.0.1 devinvadjust-partner.dmall.com
+127.0.0.1 testinvadjust-partner.dmall.com
+
+#test
+10.248.224.7 devmonitor.fulfillment.dmall.com
+
+10.248.224.7 devopen.dmall.com
+10.248.224.7 devapiopen.dmall.com
+10.248.224.7 devmanopen-partner.dmall.com
+
+10.248.224.18 devamp.dmall.com devomp.amp.dmall.com devdba.amp.dmall.com devbsm.amp.dmall.com
+10.248.224.39 devds.dmc.dmall.com
+
+10.248.224.7 devconfigcenter-partner.dmall.com
+10.248.224.7 devmanesc.dmall.com
+10.248.224.7 devmansso.dmall.com
+10.248.224.7 devsso.dmall.com
