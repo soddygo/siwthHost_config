@@ -1,0 +1,21 @@
+#esc
+10.16.244.71 testesc.dmall.com 
+10.16.244.71 testmanesc.dmall.com
+10.16.244.71 testapiesc.dmall.com 
+10.16.244.71 testsyncesc.dmall.com
+10.16.244.71 testmansso.dmall.com
+10.16.244.71 testsso.dmall.com
+10.16.244.71 testapisso.dmall.com
+#erp
+10.16.244.71 testapi.erp.dmall.com   
+10.16.244.71 testerp.dmall.com
+10.16.244.71 testgwerp-partner.dmall.com
+10.16.244.71 testjob.erp.dmall.com
+10.16.244.71 testlike-erp.dmall.com
+10.16.244.71 testlog.erp.dmall.com
+10.16.244.71 testrest.erp.dmall.com
+#来客
+10.16.244.71 testpartner.dmall.com
+10.16.244.71 testpassport-partner.dmall.com 
+10.16.244.71 testprivilege-partner.dmall.com 
+10.16.244.71 testman.partner.dmall.com
