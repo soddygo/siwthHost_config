@@ -1,0 +1,11 @@
+# 核心 rd
+# Entries added by HostAliases.
+10.16.116.100   rdamp.dmg.dmall.com
+10.16.116.66    rdzk1.dmall.com devzk1.dmall.com
+10.16.116.70    rdzk3.dmall.com devzk3.dmall.com
+10.16.116.72    rdamp.ddc.dmall.com
+10.16.116.73    rdzk2.dmall.com devzk2.dmall.com
+10.16.116.80    zonedevapi.admiral.dmall.com    zonedevapi.datahub.dmall.com
+10.16.116.84    clickhouse.dmall.com
+10.16.116.98    meta.admiral.dmall.com  meta.admiral.api.inner-dmall.com
+10.16.244.208   bjdev-dmg.wumart.com
